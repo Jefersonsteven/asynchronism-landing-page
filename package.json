@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Jefersonsteven/asynchronism-landing-page/issues"
   },
-  "homepage": "https://github.com/Jefersonsteven/asynchronism-landing-page#readme"
+  "homepage": "https://github.com/Jefersonsteven/asynchronism-landing-page#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
